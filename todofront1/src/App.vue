@@ -73,7 +73,7 @@ export default {
         let i=0;
         for(i = 0; i < this.allTasks.length; i++){
           if(this.allTasks[i].taskIsDone){
-            console.log("loh")
+            console.log("nono")
 
           }
           else {
@@ -99,7 +99,7 @@ export default {
 
           }
           else {
-            console.log("loh")
+            console.log("nono")
           }
 
 
